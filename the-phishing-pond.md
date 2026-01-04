@@ -19,7 +19,9 @@ The objective of this exercise is to identify phishing emails and distinguish th
 - Fear
 
 ## 5. Evidence
-(Insert your screenshots here)
+<img width="1173" height="385" alt="Screenshot 2026-01-04 170910" src="https://github.com/user-attachments/assets/82042e41-5df9-44e7-83c4-1d052c42d7b9" />
+<img width="1167" height="467" alt="Screenshot 2026-01-04 171619" src="https://github.com/user-attachments/assets/1ab69481-399a-47b5-8e48-e1f697c1e350" />
+
 
 ## 6. Impact if Victim Falls for the Attack
 The impact includes credential theft, account compromise, and possible financial loss.
