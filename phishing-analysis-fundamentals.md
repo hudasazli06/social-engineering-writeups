@@ -19,7 +19,8 @@ The objective of this exercise is to understand the structure of phishing emails
 - Fear
 
 ## 5. Evidence
-(Insert your screenshots here)
+<img width="954" height="474" alt="Screenshot 2026-01-04 150707" src="https://github.com/user-attachments/assets/b856ea9b-11a3-4733-a9f9-e248a9d8ce50" />
+
 
 ## 6. Impact if Victim Falls for the Attack
 If a victim interacts with the phishing email, attackers may gain access to credentials, personal information, or install malware.
